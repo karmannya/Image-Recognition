@@ -1,0 +1,20 @@
+.heading {
+    font-size: 35px;
+    width: 80%;
+
+}
+
+.NAMES,#answerobject,#answerpercent {
+    color: aqua;
+    font-size: 20px;
+}
+
+#camera,#result {
+    border: 3px solid black;
+    width: 380px;
+    height: 300px;
+}
+
+body {
+    background-color:rgb(91, 207, 87) ;
+}
